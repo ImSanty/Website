@@ -1,0 +1,9 @@
+fullscreen:false
+mipmapLevels:1
+renderDistance:16
+simulationDistance:8
+maxFps:180
+enableVsync:false
+gamma:1.0
+darkMojangStudiosBackground:true
+resourcePacks:["vanilla","mod_resources","fabric","eatinganimations_compat","moonlight:mods_dynamic_assets","continuity:default","continuity:glass_pane_culling_fix","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/FreshAnimations_v1.9.2.zip","file/Fresh Moves v3.1.zip","file/Created Applied Energistics.zip","file/Extended Illumina 1.21x.zip","file/Recolourful Containers 2.0 (1.19.4+).zip","file/Connected Paths v1.2.zip","file/Fancy Crops v1.1.zip"]

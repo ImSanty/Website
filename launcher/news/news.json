@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Actualización 1.0.3",
+    "content": "- Arreglos de UI. \n - Librerias actualizadas y problemas de vulnerabilidad arreglados. \n - Cambios hechos en la hotfix 1.0.2 revertidos. \n - Modpack actualizado a la version 1.1.0",
+    "author": "SantiAgüero",
+    "publish_date": "2025-06-20 15:51:00"
+  },
+  {
+    "title": "Modpack 1.1.0",
+    "content": "- Se agregó Create: New Furnitures. \n - Se agregó Create: Linked Remote. \n - Se agregó Xaero's Minimap.",
+    "author": "SantiAgüero",
+    "publish_date": "2025-06-20 15:51:00"
+  },
+  {
+    "title": "Hotfix 1.0.2",
+    "content": "- Se implementó una solución temporal debido a la caída de las APIs oficiales de Maven y NeoForge. \n - Se hostearon archivos JSON en el servidor del launcher para simular las respuestas necesarias y asegurar el funcionamiento del instalador de mods.",
+    "author": "SantiAgüero",
+    "publish_date": "2025-06-17 12:34:00"
+  },
+  {
+    "title": "Actualización 1.0.1",
+    "content": "- Mejoras visuales y de UI. \n - Sistema de ping al servidor mejorado (Mas preciso con actualizacion en tiempo real). \n - Corrección de errores general :)",
+    "author": "SantiAgüero",
+    "publish_date": "2025-06-09 00:00:00"
+  },
+  {
+    "title": "Bienvenido a Voxelite Launcher :)",
+    "content": "Nada nuevo para contar",
+    "author": "SantiAgüero",
+    "publish_date": "2025-05-04 00:00:00"
+  }
+]
