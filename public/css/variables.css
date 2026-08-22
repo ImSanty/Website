@@ -1,0 +1,40 @@
+/* ===== CSS CUSTOM PROPERTIES ===== */
+:root {
+    /* Primary Colors - Electric Indigo & Royal Blue */
+    --primary: #4f46e5;
+    --primary-light: #818cf8;
+    --primary-dark: #3730a3;
+
+    /* Secondary Colors - Vivid Violet */
+    --secondary: #7c3aed;
+    --secondary-light: #a78bfa;
+
+    /* Accent Colors - Hot Magenta & Fuchsia */
+    --accent: #ec4899;
+    --accent-light: #f472b6;
+
+    /* Dark Theme Colors - Deep Midnight Navy */
+    --dark-bg: #030712;
+    --dark-surface: #0a0f1e;
+    --dark-card: #111827;
+    --dark-border: #1e293b;
+
+    /* Text Colors */
+    --text-primary: #f1f5f9;
+    --text-secondary: #94a3b8;
+    --text-muted: #64748b;
+
+    /* Gradients - Blue to Magenta Dual-Tone */
+    --gradient-1: linear-gradient(135deg, #4f46e5, #ec4899);
+    --gradient-2: linear-gradient(135deg, #ec4899, #7c3aed);
+    --gradient-3: linear-gradient(135deg, #4f46e5, #7c3aed, #ec4899);
+
+    /* Shadows - Neon Glow Effects */
+    --shadow-glow: 0 0 40px rgba(79, 70, 229, 0.4);
+    --shadow-card: 0 10px 40px rgba(0, 0, 0, 0.6);
+
+    /* Transitions */
+    --transition-fast: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-smooth: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-bounce: 0.6s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
